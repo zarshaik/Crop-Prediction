@@ -12,3 +12,20 @@ Crop production may be a complicated development that's influenced by soil and e
 Food insecurity may be a drawback that can't be avoided, and humans should build use of latest innovative technologies to create use of existing soil, water and air conditions to get larger crops. The information gap between ancient ways that of cultivating and new agricultural technologies may overcome if a model may be designed to model the interactive impact of climate factors, particularly the impact of events (e.g., heat, rainfalls and excess water) occurring at completely different growing phases of crops. 
 
 The temperature change undoubtedly affects the native and world food production, therefore planning computer code to model crop predictions needs new methodology for temperature change studies, situations for temperature change adaptation, and policymakers which will limit the devastating effects of weather on food provide. The soil sort will modification over time because of weather and pests, therefore crop management must manage a fancy quantity of information, directly or indirectly associated with one another. It will therefore by considering a simplified reality, to permit a quick assessment of the impact of temperature change in agriculture.
+
+
+## Block Diagram
+
+![image](https://user-images.githubusercontent.com/42908895/174406905-850d5a8e-a47c-4845-a560-431ddb1766fc.png)
+
+
+
+
+
+
+
+
+
+
+
+
